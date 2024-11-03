@@ -10,8 +10,11 @@ How It Works
 Usage Example:
 
 Enter the filename to save for the QR code image: my_qr_code
+
 Enter the text or URL you want to encode in the QR code: https://example.com
+
 Enter the color for the QR code (e.g., black, #0000FF for blue): black
+
 Enter the background color for the QR code (e.g., white, #FFFF00 for yellow): white
 
 Your QR code will be saved as my_qr_code.png in the same directory! 🖼️
